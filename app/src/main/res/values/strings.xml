@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MixtureCaptcha</string>
+    <string name="button">Verify your existence</string>
+</resources>
